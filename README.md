@@ -1,25 +1,32 @@
 # Home Lab Setup
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Configure a simple home lab setup comprising of Kali Linux OS installed on a virtual machine within VirtualBox to conduct pentesting simulations using tools like Metasploit , Burp Suite etc.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
+- Explored and enhanced  skills in various tools like Nmap , Wireshark , Burpsuite , HashCat , Sqlmap , 
+Metasploit , Nikto etc. 
+- Gained valuable insights regarding knowledge of the linux environment and command line interface . 
+- Practiced in a controlled environment inorder master penetration testing techniques, from 
+reconnaissance to post-exploitation using several VMs available from TryHackMe , VulnHub etc. 
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Kali Linux
+- Burp Suite Community Edition (Intercept, modify, and test web requests)
+- Metasploit (Modular framework used to identify, exploit, and validate vulnerabilities in systems and networks)
+- Nmap (Network discovery and port scanning)
+- Wireshark (network protocol analyzer for capturing and examining network traffic in real time)
+- Netcat (Reverse shell, pivoting)
+- Nikto (Web server scanner and reconnaisance)
+- Hashcat (GPU-accelerated password cracker)
+- Hydra (Brute-force remote login services (SSH, FTP, etc.))
+- John the ripper  (Local password cracker)
+- Sqlmap (Automated SQL injection tool)
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
